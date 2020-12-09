@@ -1,0 +1,15 @@
+$bgButtonColor: lightgreen;
+$paddingButton: 10px 15px;
+
+$colorH1: orange;
+$sizeH1: 36px;
+
+button {
+    background-color: $bgButtonColor;
+    padding: $paddingButton;
+}
+
+h1 {
+    color: $colorH1;
+    font-size: $sizeH1;
+}
